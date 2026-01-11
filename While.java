@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 // //While loops
+=======
+//Loops in Java
+//While loops
+>>>>>>> 6de91d768662fcaff3fda60261932fb1a0c086c3
 
 // public class While {
 //     public static void main(String[] args) {

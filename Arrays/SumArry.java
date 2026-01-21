@@ -1,3 +1,8 @@
+// Java Program to Add (Sum) All Elements of an Array
+// Logic:
+// Take a variable sum = 0
+// Traverse array and keep adding values
+
 package Arrays;
 
 public class SumArry {

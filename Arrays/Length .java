@@ -1,3 +1,8 @@
+// Java Program to Find Length of an Array
+// Important :
+// Arrays don’t need loops to find length
+// Java already gives you (.length)
+
 public class Length  {
 
     public static void main(String[] args) {

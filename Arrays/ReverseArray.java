@@ -1,3 +1,11 @@
+// Java Program to Print Array Elements in Reverse Order
+// Logic:
+// Arrays are 0-indexed
+// Last index = length - 1
+// Loop from last index to 0
+
+
+
 public class ReverseArray {
     public static void main(String[] args) {
 

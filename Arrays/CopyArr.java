@@ -1,3 +1,8 @@
+// Java Program to Copy All Elements of One Array to Another
+// Logic:
+// Create a new array of same size
+// Copy element by element using a loop
+
 public class CopyArr {
     
     public static void main(String[] args) {

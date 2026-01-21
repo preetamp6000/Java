@@ -9,4 +9,4 @@ public class ArrayClass {
 
         Arrays.stream(arr).forEach(System.out::println);
     }
-}
+}   

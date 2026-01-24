@@ -3,7 +3,7 @@
 // Take a variable sum = 0
 // Traverse array and keep adding values
 
-package Arrays;
+
 
 public class SumArry {
 
